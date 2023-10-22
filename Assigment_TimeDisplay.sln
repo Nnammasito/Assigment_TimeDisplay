@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assigment_TimeDisplay", "Assigment_TimeDisplay.csproj", "{A4BBAF00-53AD-422A-A80A-86770961FA50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4BBAF00-53AD-422A-A80A-86770961FA50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4BBAF00-53AD-422A-A80A-86770961FA50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4BBAF00-53AD-422A-A80A-86770961FA50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4BBAF00-53AD-422A-A80A-86770961FA50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C5EF00C-6F4E-47A5-B088-D390F0BF58F9}
+	EndGlobalSection
+EndGlobal
